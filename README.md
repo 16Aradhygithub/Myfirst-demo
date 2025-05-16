@@ -1,4 +1,4 @@
 # Myfirst-demo
 This is my first Repository
 <br>
-Author - Aradhy Tripathi
+Author - Aradhy Tripathi (Arav)
